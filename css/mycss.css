@@ -1,0 +1,109 @@
+html,
+body {
+    /* height: 637px; */
+    /* margin: 0;*/
+    height: 100vh;
+    background-color: #910099;
+}
+
+.container-fluid {
+    /* min-height: 100%; */
+    width: 100%;
+    margin: 0 !important;
+    padding: 0 !important;
+    /* background: #7ad0fb; */
+    overflow-x: hidden;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+/* Main Content | Fawad Iqbal*/
+
+.myBox {
+    padding: 6px;
+    background-color: #f30aff;
+    /* min-height: 237px; */
+    /* min-height: 37.20565149136578%; */
+    min-height: 20vh;
+    color: aliceblue;
+    align-content: center;
+    margin: auto;
+    text-align: center;
+    /* cursor: pointer; */
+}
+
+.myButtonClass {
+    padding: 6px;
+    background-color: #f879ff;
+    color: aliceblue;
+    min-height: 7vh;
+    /* align-content: flex-end; */
+    margin: auto;
+    text-align: center;
+    /* cursor: pointer; */
+    display: block;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    z-index: 100;
+    border: none;
+    outline: none;
+    background-color: rgb(133, 133, 133);
+    color: white;
+    /* cursor: pointer; */
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.box1 {
+    /* background-color: #00649F; */
+    background-color: #730079;
+    /* min-height: 400px; */
+    min-height: 20vh;
+    /* min-height: 62.79434850863422%; */
+    /*  */
+    /* text-align: left; */
+    /* align-items: center; */
+    color: aliceblue;
+    padding: 40px;
+    align-content: center;
+    margin: auto;
+    justify-content: center;
+    font-size: 25pt;
+}
+
+
+/* Blog */
+
+.box2 {
+    background-color: #AB04B4;
+    min-height: 20vh;
+    color: aliceblue;
+    padding: 15px;
+    align-content: center;
+    margin: auto;
+    justify-content: center;
+    font-size: 15pt;
+    /* cursor: pointer; */
+}
+
+
+/* Projects */
+
+.box3 {
+    background-color: #00A200;
+    /* min-height: 118px; */
+    min-height: 20vh;
+    color: aliceblue;
+    /* cursor: pointer; */
+    margin: auto;
+}
+
+.box4 {
+    background-color: rgb(89, 175, 255);
+    /* min-height: 118px; */
+    min-height: 20vh;
+    color: aliceblue;
+    /* cursor: pointer; */
+    margin: auto;
+}
